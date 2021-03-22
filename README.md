@@ -37,7 +37,12 @@ Currently, this window can be called up called up using the shortcut key F12.</b
 Main function: is to list all 330 townships under their own respective Districts under each State/Division in Myanmar.</br>
 Other functions: will be explained under the explanation for each control.</br>
 ![SRDTTS](images/SRDTTS.png)</br>
-</br>
+
 ##### 1.2. List of Controls:
 ###### 1.2.1. ListView
-  ![ListView](images/LV_SRDTTS.png)</br>
+![ListView](images/LV_SRDTTS.png)</br>
+This Listview shows all 330 townships under each districts where those townships belong and also each states/division each district belongs to respectively.</br>
+The number of townships is only correct as far as 2020. Future increase or decrease in numbers or inclusion of sub-townships/towns may or may not reflect current changes.</br>
+Selecting a listitem triggers automatic opening of 2 windows:</br>
+  - 1 showing a listview of currently selected listitem </br>
+  - 1 showing a treeview the hierarchical view of currently selected listitem.</br>
