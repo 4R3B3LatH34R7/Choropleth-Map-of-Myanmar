@@ -46,4 +46,4 @@ The number of townships is only correct as far as 2020. Future increase or decre
 Selecting a listitem triggers automatic opening of 2 windows:
   - 1 showing a listview of currently selected listitem(s) and </br>
   - 1 showing a treeview the hierarchical view of currently selected listitem(s).</br>
-
+![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)</br>
