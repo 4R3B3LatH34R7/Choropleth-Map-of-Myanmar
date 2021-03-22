@@ -37,6 +37,6 @@ Main function: is to list all 330 townships under their own respective Districts
 Other functions: will be explained under the explanation for each control.</br>
 ![SRDTTS](images/SRDTTS.png)</br>
 </br>
-  **List of Controls:**</br>
-  _*1.1. ListView*_</br>
+  ##### List of Controls:
+  ###### 1.1. ListView
   ![ListView](images/LV_SRDTTS.png)</br>
