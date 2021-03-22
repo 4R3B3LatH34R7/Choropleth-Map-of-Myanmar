@@ -43,6 +43,7 @@ Other functions: will be explained under the explanation for each control.</br>
 ![ListView](images/LV_SRDTTS.png)</br>
 This Listview shows all 330 townships under each districts where those townships belong and also each states/division each district belongs to respectively.</br>
 The number of townships is only correct as far as 2020. Future increase or decrease in numbers or inclusion of sub-townships/towns may or may not reflect current changes.</br>
-Selecting a listitem triggers automatic opening of 2 windows:</br>
-  - 1 showing a listview of currently selected listitem </br>
-  - 1 showing a treeview the hierarchical view of currently selected listitem.</br>
+Selecting a listitem triggers automatic opening of 2 windows:
+  - 1 showing a listview of currently selected listitem(s) and </br>
+  - 1 showing a treeview the hierarchical view of currently selected listitem(s).</br>
+
