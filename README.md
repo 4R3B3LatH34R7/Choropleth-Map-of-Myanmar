@@ -29,3 +29,9 @@ Choropleth maps are different from heat (sisarithmic) maps in that the former us
 I am very fascinated by UserForms in VBA so I like to use UserForms whenever possible.</br>
 However, this leads to myriads of windows in this project.</br>
 Even though I will only include the bare essentials in the release version, I will try to explain the function of each window for my own clarity and for posterity's sake.</br>
+From here on out, UserForm and Window will be used interchangeably, for my own ease of use.</br>
+
+#### 1.SRDTTS
+Currently, this window can be called up called up using the shortcut key F12.</br>
+
+![SRDTTS](images/SRDTTS.png)</br>
