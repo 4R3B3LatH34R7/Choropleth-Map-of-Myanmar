@@ -19,4 +19,4 @@ which would enhance user experience many folds compared to the very first versio
 ![Choropleth Map of Myanmar](images/themapappforgithub.png)</br>
 
 ### Choropleth Maps
-Choropleth maps are different from heat (sisarithmic) maps in that the former using pre-existing geographically defined areas while the latter just uses regions drawn according to the pattern of the variable...</br>
+Choropleth maps are different from heat (sisarithmic) maps in that the former uses pre-existing geographically defined areas to show data patterns while the latter just uses regions drawn according to the patterns of the variables...</br>
