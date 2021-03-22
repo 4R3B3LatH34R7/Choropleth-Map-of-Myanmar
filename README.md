@@ -32,11 +32,12 @@ Even though I will only include the bare essentials in the release version, I wi
 From here on out, UserForm and Window will be used interchangeably, for my own ease of use.</br>
 
 #### 1. SRDTTS
+##### 1.1. Basic Information
 Currently, this window can be called up called up using the shortcut key F12.</br>
 Main function: is to list all 330 townships under their own respective Districts under each State/Division in Myanmar.</br>
 Other functions: will be explained under the explanation for each control.</br>
 ![SRDTTS](images/SRDTTS.png)</br>
 </br>
-  ##### List of Controls:
-  ###### 1.1. ListView
+##### 1.2. List of Controls:
+###### 1.2.1. ListView
   ![ListView](images/LV_SRDTTS.png)</br>
