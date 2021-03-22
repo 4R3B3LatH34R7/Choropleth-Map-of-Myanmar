@@ -38,5 +38,5 @@ Other functions: will be explained under the explanation for each control.</br>
 ![SRDTTS](images/SRDTTS.png)</br>
 </br>
   **List of Controls:**</br>
-  1.ListView</br>
+  _*1.1. ListView*_</br>
   ![ListView](images/LV_SRDTTS.png)</br>
