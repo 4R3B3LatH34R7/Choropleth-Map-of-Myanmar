@@ -1,7 +1,7 @@
 # Choropleth-Map-of-Myanmar
 I am sorry to announce here that this project is not really ready to be released yet.</br>
 The information herein provided is just to make myself clear so that I can come and read this to understand and help myself when I got a chance to pick this up again.</br>
-One day, when I am free enough and can get a chance to review the code I wrote regarding this project, I will finish this and release it.</br>
+**One day, when I am free enough and can get a chance to review the code I wrote regarding this project, I will finish this and release it.**</br>
 For now, please kindly understand that this repo is just a show-and-tell of this tool's capabilities.</br>
 
 ## A Choropleth Map of Myanmar in Excel using VBA
