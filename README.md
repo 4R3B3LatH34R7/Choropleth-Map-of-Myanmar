@@ -46,4 +46,9 @@ The number of townships is only correct as far as 2020. Future increase or decre
 Selecting a listitem triggers automatic opening of 2 windows:
   - 1 showing a listview of currently selected listitem(s) and </br>
   - 1 showing a treeview the hierarchical view of currently selected listitem(s).</br>
+The option to turn on/off this auto-opening windows and/or selecting which window to open may be included in the release version.</br>
+
 ![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)</br>
+Information on these windows shall be explained further under their own sections.</br>
+##### 1.2.2. CommandButton Find
+Find button is meant to be used for finding the name of a township/distrcit/state/region names
