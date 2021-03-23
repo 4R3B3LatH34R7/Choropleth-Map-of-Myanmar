@@ -61,6 +61,6 @@ I know that this button caption is cryptic at it's best. But bear with me becaus
 What this button does, when turned ON, is, it causes the MultiSelect button to be turned ON but Disabled/greyed-out.</br>
 And then,, clicking/selecting a listitem (SRName/DTName) will select all the listsubitems below it.</br>
 ###### 1.2.4 ToggleButton - MultiSelect
-The function of this button, is, it will turn ON/OFF the ListView's multiselect option using Ctrl+Click or Shift+Click.
+The function of this button, is, it will turn ON/OFF the ListView's multiselect option using Ctrl+Click or Shift+Click.</br>
 ###### 1.2.5 ToggleButton - PCode
-This button is meant for showing or hiding PCodes associated with each State/Region (SR), District (DT) or Township (TS).
+This button is meant for showing or hiding PCodes associated with each State/Region (SR), District (DT) or Township (TS).</br>
