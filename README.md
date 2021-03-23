@@ -72,5 +72,9 @@ And I will probably stop using them if I ever have to rewrite the code later.</b
 The window does not actually increase in height but increased in width only. The image-editor I used just distort photos when 2 photos were merged this way.</br>
 ###### 1.2.6 CommandButton - Commit
 ![ListView Commit](images/LV_SRDTTS_Commit.png)
+In the photo, there are 5 listitems selected but in the Committed Selections window, there are 6 listitems because the first item was already committed before selecting 5 listitems.</br>
 The Commit button was so named, like I said before, for the lack of a better name, at the time of coding.</br>
-It just opens a new window showing committed selections which just shows all selected items from the listview.</br>
+In a sense, it commits what's selected in the listview to a new collection (not VBA collection).</br>
+It opens a new window showing committed selections which shows all selected items from the listview, which can be further processed as desired.</br>
+Further info on Committed Selections window shall be discussed in their own section.</br>
+
