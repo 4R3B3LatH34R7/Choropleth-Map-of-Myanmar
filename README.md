@@ -50,9 +50,17 @@ The option to turn on/off this auto-opening windows and/or selecting which windo
 
 ![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)</br>
 Information on these windows shall be explained further under their own sections.</br>
-###### 1.2.2. ToggleButton Find
+###### 1.2.2. ToggleButton - Find
 Find button is meant to be used for finding the name of a township/distrcit/state/region names. But it will also show PCode values if PCode is set to visible and if matched with find keyword.</br>
 Initially and if there is no keyword in the Find textbox and if the AutoSize togglebutton is set to True, the Find window will be smallest.</br>
 But it will grow to a certain set size with each increase in keyword length as it was typed and matched. Apparently that behaviour can be suppressed.</br>
 Further information shall be explained in more detail in their own respective section.
 ![ListView Find button](images/LV_SRDTTS_tglbtn_find.png)</br>
+###### 1.2.3 ToggleButton - 1->2,3
+I know that this button caption is cryptic at it's best. But bear with me because choosing button names is harder for me than writing code.</br>
+What this button does, when turned ON, is, it causes the MultiSelect button to be turned ON but Disabled/greyed-out.</br>
+And then,, clicking/selecting a listitem (SRName/DTName) will select all the listsubitems below it.</br>
+###### 1.2.4 ToggleButton - MultiSelect
+The function of this button, is, it will turn ON/OFF the ListView's multiselect option using Ctrl+Click or Shift+Click.
+###### 1.2.5 ToggleButton - PCode
+This button is meant for showing or hiding PCodes associated with each State/Region (SR), District (DT) or Township (TS).
