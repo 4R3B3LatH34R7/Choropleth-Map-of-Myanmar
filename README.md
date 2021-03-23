@@ -71,6 +71,6 @@ however, in the ?4th iteration/incarnation of this project, I realized that this
 And I will probably stop using them if I ever have to rewrite the code later.</br>
 The window does not actually increase in height but increased in width only. The image-editor I used just distort photos when 2 photos were merged this way.</br>
 ###### 1.2.6 CommandButton - Commit
-![ListView PCode](images/LV_SRDTTS_PCode_Combined.png)
+![ListView Commit](images/LV_SRDTTS_Commit.png)
 The Commit button was so named, like I said before, for the lack of a better name, at the time of coding.</br>
 It just opens a new window showing committed selections which just shows all selected items from the listview.</br>
