@@ -63,10 +63,9 @@ And then,, clicking/selecting a listitem (SRName/DTName) will select all the lis
 ###### 1.2.4 ToggleButton - MultiSelect
 The function of this button, is, it will turn ON/OFF the ListView's multiselect option using Ctrl+Click or Shift+Click.</br>
 ###### 1.2.5 ToggleButton - PCode
-![ListView PCode](images/LV_SRDTTS_PCode_Combined.png)</br>
+![ListView PCode](images/LV_SRDTTS_PCode_Combined.png)
 This button is meant for showing or hiding PCodes associated with each State/Region (SR), District (DT) or Township (TS).</br>
 PCodes are place codes maintained and used by Myanmar Information Management Unit (MIMU).</br>
 When I started coding this project, I thought they are important, however, in the ?4th iteration/incarnation of this project, I realized that this is not true.</br>
 And I will probably stop using them if I ever have to rewrite the code later.</br>
-
-
+The window does not actually increase in height but increased in width only. The image-editor I used just distort photos when 2 photos were merged this way.</br>
