@@ -77,4 +77,9 @@ The Commit button was so named, like I said before, for the lack of a better nam
 In a sense, it commits what's selected in the listview to a new collection (not VBA collection).</br>
 It opens a new window showing committed selections which shows all selected items from the listview, which can be further processed as desired.</br>
 Further info on Committed Selections window shall be discussed in their own section.</br>
+###### 1.2.7 CommandButton - CommitAll
+This button simply commit all 330 townships (in other words, the whole country) into Committed Selection Window for further processing.</br>
+###### 1.2.8 CommandButton - Select from Range
+This button was meant to allow selection of listitems in the listview based on a selection made on a worksheet range.</br>
+It is similar to Load fr Range button on Exported Selections window but only for selection purposes, however, it is currently not yet implemented.</br>
 
