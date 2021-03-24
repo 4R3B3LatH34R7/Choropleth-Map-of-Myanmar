@@ -122,7 +122,7 @@ If _Identify_ button is also turned ON when _Details_ was ON, the shape correspo
 ###### 1.2.14 ToggleButton - Identify
 ![ListView Shapes Select Identify](images/LV_SRDTTS_Select_Identify.png)
 Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
-The feature is different from the _Identify_ checkbox under the frame _Map_, in that this will allow selection of township shapes in the Map window.</br>
+This feature is different from the _Identify_ checkbox under the frame _Map_, in that this will allow selection of township shapes in the Map window.</br>
 And if _Identify_ button were turned ON, the corresponding shape's detailed information will be selected in the Shapes Details window.</br>
 ###### 1.2.15 Label - Opacity
 This is just a label acting as a label to identify the following label as Opacity Percent.</br>
