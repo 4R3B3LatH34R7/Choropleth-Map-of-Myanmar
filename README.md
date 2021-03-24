@@ -44,10 +44,12 @@ Other functions: will be explained under the explanation for each control.</br>
 This Listview shows all 330 townships under each districts where those townships belong and also each states/division each district belongs to respectively.</br>
 The number of townships is only correct as far as 2020. Future increase or decrease in numbers or inclusion of sub-townships/towns may or may not reflect current changes.</br>
 Selecting a listitem triggers automatic opening of 2 windows:
-  - 1 showing a listview of currently selected listitem(s) and </br>
-  - 1 showing a treeview the hierarchical view of currently selected listitem(s).</br></br>
+  - 1 showing a listview of currently selected listitem(s) and 
+  - 1 showing a treeview the hierarchical view of currently selected listitem(s).
+
 Both these windows are sticky to the _SRDTTS_ window and will go with it to any location and can switch each other's place between the two.</br>
 The option to turn on/off this auto-opening windows and/or selecting which window to open may be included in the release version.</br></br>
+
 Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity Percent_ and _DT_ labels.</br>
 The first one allows transfer of _Opacity_ settings to _Selected Items_ window on the right.</br>
 The middle one allows transfer of _Opacity_ settings to _Selected Items_ window at the bottom.</br>
