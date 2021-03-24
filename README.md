@@ -138,6 +138,9 @@ Changes the opacity of the SRDTTS window and _Selected Items_ listview and treev
 Opacity, if set below 51% will cause Red color changes in the labels _Opacity_ and _Opacity%_ to warn the user and to aid in resetting it back to 100%.</br>
 Attached image also shows that the _PCode_ was selected to be shown on the _Selected Items_ window.</br>
 Even though the idea of semi-opaque windows seems gimmicky to some people, it was meant as a feature to help check the data with map shapes to improve user experience.</br>
-###### 1.2.18 Labels - SR/DT/TS and Corresponding 3 labels
+###### 1.2.18 Labels - SR/DT/TS and corresponding 3 labels
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
 Unless _MultiSelect_ is turned on, they will show the names but once _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
+###### 1.2.19 Labels - shpName=/shpGRPed and corresponding 2 labels
+_shpName=_ is just a label to identify whether PCodes or township names are used as shapes' names.
+_shpGRPed_ is used to identify whether some of the shapes are grouped as msoGroup or all of the shapes are ungrouped msoFreeforms.
