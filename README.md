@@ -50,7 +50,7 @@ Selecting a listitem triggers automatic opening of 2 windows:
 Both these windows are sticky to the _SRDTTS_ window and will go with it to any location and can switch each other's place between the two.</br>
 The option to turn on/off this auto-opening windows and/or selecting which window to open may be included in the release version.</br>
 
-Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity Percent_ and _DT_ labels.</br>
+Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity%_ and _DT_ labels.</br>
 The first one allows transfer of _Opacity_ settings to _Selected Items_ window on the right.</br>
 The middle one allows transfer of _Opacity_ settings to _Selected Items_ window at the bottom.</br>
 The last one will change color to indicate that it is active or not and will transfer _Opacity_ settings to both the other windows at the same time.</br>
@@ -136,6 +136,7 @@ Double-clicking on this label resets the _Opacity_ to 100%.
 ![ListView Shapes Select Identify](images/LV_SRDTTS_Opacity_Sample.png)
 Changes the opacity of the SRDTTS window and _Selected Items_ listview and treeview.</br>
 Opacity, if set below 51% will cause Red color changes in the labels _Opacity_ and _Opacity%_ to warn the user and to aid in resetting it back to 100%.</br>
+Attached image also shows that the _PCode_ was selected to be shown on the _Selected Items_ window.</br>
 ###### 1.2.18 Labels - SR/DT/TS and Corresponding 3 labels
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
 Unless, _MultiSelect_ is turned on, they will show the names but once, _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
