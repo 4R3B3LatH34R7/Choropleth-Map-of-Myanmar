@@ -142,5 +142,7 @@ Even though the idea of semi-opaque windows seems gimmicky to some people, it wa
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
 Unless _MultiSelect_ is turned on, they will show the names but once _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
 ###### 1.2.19 Labels - shpName=/shpGRPed and corresponding 2 labels
-_shpName=_ is just a label to identify whether PCodes or township names are used as shapes' names.
-_shpGRPed_ is used to identify whether some of the shapes are grouped as msoGroup or all of the shapes are ungrouped msoFreeforms.
+_shpName=_ is just a label to identify whether PCodes or township names are used as shapes' names.</br>
+This is important if and when shape-mouse-over-name feature is activated.</br>
+_shpGRPed_ is used to identify whether some of the shapes are grouped as msoGroup or all of the shapes are ungrouped msoFreeforms.</br>
+
