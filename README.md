@@ -112,8 +112,9 @@ Container for the ToggleButtons:</br>
 Opens the Shapes Details window which contains detailed information about the msoFreeform/msoGroup shapes representing different townships.</br>
 If and when _Details_ button is turned to ON state, detailed information of the shape corresponding to the selected listitem in the listview will get selected in Shapes Details window.</br>
 ![ListView Shapes Identify Details](images/LV_SRDTTS_Identify_Details.png)
-If _Identify_ button is also pressed when _Details_ was pressed, the shape corresponding to the selected item in listview will be colored green and Shapes Details window will also show that shapes detailed information.</br>
+If _Identify_ button is also turned ON when _Details_ was ON, the shape corresponding to the selected item in listview will be colored green and Shapes Details window will also show that shape's detailed information.</br>
 ###### 1.2.14 ToggleButton - Identify
 ![ListView Shapes Select Identify](images/LV_SRDTTS_Select_Identify.png)
 Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
-The feature is different from the _Identify_ checkbox under the frame _Map_, in that this will allow selection of township shapes in the Map window. And if _Identify_ button were turned ON, the corresponding shape's detailed information will be selected in the Shapes Details window.</br>
+The feature is different from the _Identify_ checkbox under the frame _Map_, in that this will allow selection of township shapes in the Map window.</br>
+And if _Identify_ button were turned ON, the corresponding shape's detailed information will be selected in the Shapes Details window.</br>
