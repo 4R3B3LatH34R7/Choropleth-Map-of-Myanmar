@@ -99,10 +99,12 @@ This frame was there for a place holder for the 3 CheckBoxes.<br>
       Also enables the _Identify_ Toggle Button.</br>
 ###### 1.2.11 ToggleButton - MoveMap
 ![ListView Shapes Details](images/LV_SRDTTS_MoveMap.png)
-Not visible unless the _Show_ CheckBox under the frame _Map_ was checked.
+Not visible unless the _Show_ CheckBox under the frame _Map_ was checked.</br>
+Shows the MoveMap window which can be used to move the Map window around the screen.</br>
+Further info on MoveMap window will be available under its own section.
 ###### 1.2.12 Frame - Shape
-Only visible after the _Show_ CheckBox under the frame _Map_ was checked.
-Container for the ToggleButtons:
+Only visible after the _Show_ CheckBox under the frame _Map_ was checked.</br>
+Container for the ToggleButtons:</br>
 1. Details
 2. Identify
 ###### 1.2.13 ToggleButton - Details
