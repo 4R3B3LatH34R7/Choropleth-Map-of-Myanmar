@@ -50,7 +50,7 @@ Selecting a listitem triggers automatic opening of 2 windows:
 Both these windows are sticky to the _SRDTTS_ window and will go with it to any location and can switch each other's place between the two.</br>
 The option to turn on/off this auto-opening windows and/or selecting which window to open may be included in the release version.</br>
 </br>
-Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity %_ and _DT_ labels.</br>
+Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity Percent_ and _DT_ labels.</br>
 The first one allows transfer of _Opacity_ settings to _Selected Items_ window on the right.</br>
 The middle one allows transfer of _Opacity_ settings to _Selected Items_ window at the bottom.</br>
 The last one will change color to indicate that it is active or not and will transfer _Opacity_ settings to both the other windows at the same time.</br>
