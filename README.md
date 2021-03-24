@@ -105,6 +105,9 @@ Container for the ToggleButtons:
 1. Details
 2. Identify
 ###### 1.2.13 ToggleButton - Details
+![ListView Shapes Details](images/LV_SRDTTS_Shapes_Details.png)
 Opens the Shapes Details window.</br>
 ###### 1.2.14 ToggleButton - Identify
+![ListView Shapes Select Identify](images/LV_SRDTTS_Select_Identify.png)
 Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
+![ListView Shapes Identify Details](images/LV_SRDTTS_Identify_Details.png)
