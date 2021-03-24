@@ -140,4 +140,4 @@ Attached image also shows that the _PCode_ was selected to be shown on the _Sele
 Even though the idea of semi-opaque windows seems gimmicky to some people, it was meant as a feature to help check the data with map shapes to improve user experience.</br>
 ###### 1.2.18 Labels - SR/DT/TS and Corresponding 3 labels
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
-Unless, _MultiSelect_ is turned on, they will show the names but once, _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
+Unless _MultiSelect_ is turned on, they will show the names but once _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
