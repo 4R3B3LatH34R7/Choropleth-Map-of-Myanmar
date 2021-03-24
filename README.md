@@ -54,14 +54,14 @@ Once the 2 _Selected Items_ windows are visible, 1 special clickable label will 
 The first one allows transfer of _Opacity_ settings to _Selected Items_ window on the right.</br>
 The middle one allows transfer of _Opacity_ settings to _Selected Items_ window at the bottom.</br>
 The last one will change color to indicate that it is active or not and will transfer _Opacity_ settings to both the other windows at the same time.</br>
-![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)</br>
+![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)
 Information on these windows shall be explained further under their own sections.</br>
 ###### 1.2.2. ToggleButton - Find
 Find button is meant to be used for finding the name of a township/distrcit/state/region names. But it will also show PCode values if PCode is set to visible and if matched with find keyword.</br>
 Initially and if there is no keyword in the Find textbox and if the AutoSize togglebutton is set to True, the Find window will be smallest.</br>
 But it will grow to a certain set size with each increase in keyword length as it was typed and matched. Apparently that behaviour can be suppressed.</br>
 Further information shall be explained in more detail in their own respective section.
-![ListView Find button](images/LV_SRDTTS_tglbtn_find.png)</br>
+![ListView Find button](images/LV_SRDTTS_tglbtn_find.png)
 ###### 1.2.3 ToggleButton - 1->2,3
 I know that this button caption is cryptic at it's best. But bear with me because choosing button names is harder for me than writing code.</br>
 What this button does, when turned ON, is, it causes the MultiSelect button to be turned ON but Disabled/greyed-out.</br>
