@@ -81,7 +81,30 @@ Further info on Committed Selections window shall be discussed in their own sect
 This button simply commit all 330 townships (in other words, the whole country) into Committed Selection Window for further processing.</br>
 ###### 1.2.8 CommandButton - Select from Range
 This button was meant to allow selection of listitems in the listview based on a selection made on a worksheet range.</br>
-It is similar to Load fr Range button on Exported Selections window but only for selection purposes, however, it is currently not yet implemented.</br>
+It is similar to _Load fr Range_ button on Exported Selections window but only for selection purposes without actually loading the WorkSheet range data into the Committed Selections window. At the time of writing this README.md, itt is not yet implemented.</br>
 ###### 1.2.9 ToggleButton - Tables
 ![ListView Exported Selections](images/LV_SRDTTS_Exported_Selections.png)
-This buttons was named as Tables because it shows the list of the Tables in the WorkSheet Ranges that were exported from _[Committed Selections](https://github.com/NLYinMaung/Choropleth-Map-of-Myanmar#126-commandbutton---commit)_ window.</br>
+This buttons was named as Tables because it shows the list of the Tables in the WorkSheet Ranges that were exported from the EXPORT button under the frame _toSheet_ on _[Committed Selections](https://github.com/NLYinMaung/Choropleth-Map-of-Myanmar#126-commandbutton---commit)_ window.</br>
+Further info on the Exported Selections window shall be presented in its own section.</br>
+###### 1.2.10 Frame - Map
+This frame was there for a place holder for the 3 CheckBoxes.<br>
+1. Show
+      Changes the visibility of the map. Also enables/disables the remaining 2 CheckBoxes.</br>
+      Also changes the visibility of _MoveMap_ button and the frame _Shape_ containing _Details_ and _Identify_ buttons with the latter still disabled until the _Select_ CheckBox was checked.</br>
+2. Identify
+      Allows visual identification, of the clicked listitem in the listview, as represented by a green shape in the map.</br>
+      It still does not allow direct selection of a shape using the mouse.</br>
+3. Select
+      Allows a single mapshape to be selected.</br>
+      Also enables the _Identify_ Toggle Button.</br>
+###### 1.2.11 ToggleButton - MoveMap
+Not visible unless the _Show_ CheckBox under the frame _Map_ was checked.
+###### 1.2.12 Frame - Shape
+Only visible after the _Show_ CheckBox under the frame _Map_ was checked.
+Container for the ToggleButtons:
+1. Details
+2. Identify
+###### 1.2.13 ToggleButton - Details
+Opens the Shapes Details window.</br>
+###### 1.2.14 ToggleButton - Identify
+Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
