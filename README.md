@@ -46,8 +46,14 @@ The number of townships is only correct as far as 2020. Future increase or decre
 Selecting a listitem triggers automatic opening of 2 windows:
   - 1 showing a listview of currently selected listitem(s) and </br>
   - 1 showing a treeview the hierarchical view of currently selected listitem(s).</br>
+</br>
+Both these windows are sticky to the _SRDTTS_ window and will go with it to any location and can switch each other's place between the two.</br>
 The option to turn on/off this auto-opening windows and/or selecting which window to open may be included in the release version.</br>
-
+</br>
+Once the 2 _Selected Items_ windows are visible, 1 special clickable label will appear between _Opacity_ label and _SR_ label and 2 between _Opacity %_ and _DT_ labels.</br>
+The first one allows transfer of _Opacity_ settings to _Selected Items_ window on the right.</br>
+The middle one allows transfer of _Opacity_ settings to _Selected Items_ window at the bottom.</br>
+The last one will change color to indicate that it is active or not and will transfer _Opacity_ settings to both the other windows at the same time.</b>
 ![ListView with selecteditem](images/LV_SRDTTS_selectedlistitems_lvandtv.png)</br>
 Information on these windows shall be explained further under their own sections.</br>
 ###### 1.2.2. ToggleButton - Find
@@ -118,3 +124,13 @@ If _Identify_ button is also turned ON when _Details_ was ON, the shape correspo
 Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
 The feature is different from the _Identify_ checkbox under the frame _Map_, in that this will allow selection of township shapes in the Map window.</br>
 And if _Identify_ button were turned ON, the corresponding shape's detailed information will be selected in the Shapes Details window.</br>
+###### 1.2.15 Label - Opacity
+This is just a label acting as a label to identify the following label as Opacity Percent.</br>
+###### 1.2.16 Label - Opacity %
+This label shows the current opacity % of _SRDTTS_ as set by the opacity slider below it.</br>
+The _Opacity_ set here can be transferred to the _Selected Items_ listview and treeview.</br>
+###### 1.2.17 Slider - Opacity
+Changes the opacity of the SRDTTS window and _Selected Items_ listview and treeview.</br>
+###### 1.2.18 Labels - SR/DT/TS and Corresponding 3 labels
+These labels show how many townships/districts/state/regions were selected in the listview.</br>
+Unless, _MultiSelect_ is turned on, they will show the names but once, _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
