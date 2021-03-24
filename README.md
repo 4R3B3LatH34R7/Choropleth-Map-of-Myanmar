@@ -82,4 +82,6 @@ This button simply commit all 330 townships (in other words, the whole country) 
 ###### 1.2.8 CommandButton - Select from Range
 This button was meant to allow selection of listitems in the listview based on a selection made on a worksheet range.</br>
 It is similar to Load fr Range button on Exported Selections window but only for selection purposes, however, it is currently not yet implemented.</br>
+###### 1.2.9 ToggleButton - Tables
 ![ListView Exported Selections](images/LV_SRDTTS_Exported_Selections.png)
+This buttons was named as Tables because it shows the list of the Tables in the WorkSheet Ranges that were exported from _[Committed Selections](https://github.com/NLYinMaung/Choropleth-Map-of-Myanmar#126-commandbutton---commit)_ window.</br>
