@@ -127,11 +127,15 @@ This feature is different from the _Identify_ checkbox under the frame _Map_, in
 And if _Identify_ button were turned ON, the corresponding shape's detailed information will be selected in the Shapes Details window.</br>
 ###### 1.2.15 Label - Opacity
 This is just a label acting as a label to identify the following label as Opacity Percent.</br>
+Double-clicking on this label resets the _Opacity_ to 100%.
 ###### 1.2.16 Label - Opacity %
 This label shows the current opacity % of _SRDTTS_ as set by the opacity slider below it.</br>
 The _Opacity_ set here can be transferred to the _Selected Items_ listview and treeview.</br>
+Double-clicking on this label resets the _Opacity_ to 100%.
 ###### 1.2.17 Slider - Opacity
+![ListView Shapes Select Identify](images/LV_SRDTTS_Opacity_Sample.png)
 Changes the opacity of the SRDTTS window and _Selected Items_ listview and treeview.</br>
+Opacity, if set below 51% will cause Red color changes in the labels _Opacity_ and _Opacity%_ to warn the user and to aid in resetting it back to 100%.</br>
 ###### 1.2.18 Labels - SR/DT/TS and Corresponding 3 labels
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
 Unless, _MultiSelect_ is turned on, they will show the names but once, _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
