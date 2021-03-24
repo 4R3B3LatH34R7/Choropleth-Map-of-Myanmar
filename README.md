@@ -98,6 +98,7 @@ This frame was there for a place holder for the 3 CheckBoxes.<br>
       Allows a single mapshape to be selected.</br>
       Also enables the _Identify_ Toggle Button.</br>
 ###### 1.2.11 ToggleButton - MoveMap
+![ListView Shapes Details](images/LV_SRDTTS_MoveMap.png)
 Not visible unless the _Show_ CheckBox under the frame _Map_ was checked.
 ###### 1.2.12 Frame - Shape
 Only visible after the _Show_ CheckBox under the frame _Map_ was checked.
@@ -111,4 +112,3 @@ Opens the Shapes Details window.</br>
 ###### 1.2.14 ToggleButton - Identify
 ![ListView Shapes Select Identify](images/LV_SRDTTS_Select_Identify.png)
 Opens the Shapes Details window if not opened yet if and when a shape was selected on the map using mouse.</br>
-
