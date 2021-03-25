@@ -144,9 +144,13 @@ Unless _MultiSelect_ is turned on, they will show the names but once _MultiSelec
 ###### 1.2.19 Labels - shpName=/shpGRPed and corresponding 2 labels
 ![ListView Shapes MouseOver NoShapesDetails](images/LV_SRDTTS_MouseOver_PCode_NoShapesDetails.png)
 _shpName=_ is just a label to identify whether PCodes or township names are used as shapes' names.</br>
+As shown in the photo above, when mouse cursor is hovered over a shape, it's name=PCode (at that moment, shapenames=PCodes) is shown.</br>
+However, the names of the shapes can be switched to the names of the townships they represent, from the _Shapes Details_ window as shown below, and the shapes' names changed from being PCodes to Township names.</br>
 ![ListView Shapes MouseOver PCode](images/LV_SRDTTS_MouseOver_PCode.png)
 This is important if and when shape-mouse-over-name feature is activated.</br>
 ![ListView Shapes MouseOver TSName](images/LV_SRDTTS_MouseOver_TSName.png)</br>
-
-_shpGRPed_ is used to identify whether some of the shapes are grouped as msoGroup or all of the shapes are ungrouped msoFreeforms.</br>
+When it comes to this feature, because of the nature of the code behind the default sysmtem mouseover event handler, it uses index of the shape rather than the name of the shape.</br>
+Therefore, if/when the mouse cursor hovers over a grouped shape, all kinds of havoc break lose because the shape index of a member shape inside of a grouped shape now gonna have the same index of a msoFreeform shape and the msoFreeform shape's name will now show up in place of the group member shape.</br>
+That is the reason behind checking the current shapename being PCode/PName(as in place name) and behind the rationale of making sure whether shapes are grouped or not.</br>
+For that reason, _shpGRPed_ is used to identify whether some of the shapes are grouped as msoGroup or all of the shapes are ungrouped msoFreeforms.</br>
 
