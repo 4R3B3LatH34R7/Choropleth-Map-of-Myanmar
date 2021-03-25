@@ -142,7 +142,7 @@ Even though the idea of semi-opaque windows seems gimmicky to some people, it wa
 These labels show how many townships/districts/state/regions were selected in the listview.</br>
 Unless _MultiSelect_ is turned on, they will show the names but once _MultiSelect_ is ON, they will show only the counts of the selected townships/districts/state/region.</br>
 ###### 1.2.19 Labels - shpName=/shpGRPed and corresponding 2 labels
-![ListView Shapes MouseOver NoShapesDetails](images/LV_SRDTTS_MouseOver_PCode_NoShapesDetails.png)
+![ListView Shapes MouseOver NoShapesDetails](images/LV_SRDTTS_MouseOver_PCode_NoShapesDetails.png height="200" width="400")
 _shpName=_ is just a label to identify whether PCodes or PNames (as in Place Names aka township names) are used as shapes' names, at a given time.</br>
 As shown in the photo above, when the mouse cursor is hovered over a shape, it's name=PCode (at that moment, shapenames=PCodes) is shown.</br>
 However, the names of the shapes can be switched to the names of the townships they represent, from the _Shapes Details_ window as shown below, and the shapes' names changed from being PCodes to Township names.</br>
