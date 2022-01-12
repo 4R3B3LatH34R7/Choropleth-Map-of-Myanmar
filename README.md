@@ -23,3 +23,20 @@ which would enhance user experience many folds compared to the very first versio
 ![Choropleth Map of Myanmar](images/themapappforgithub.png)</br></br>
 
 Kindly refer to the [wiki pages](https://github.com/NLYinMaung/Choropleth-Map-of-Myanmar/wiki) for further information regarding different functions of this tool.
+
+***
+## License
+I don't actually like/want/wish to apply CC BY-SA license to what I share, really!\
+However, there exists some jerks in this world who thought it's ok to derive my work without proper accreditation.\
+I don't care much for fame nor finance but a little credit for the many hours of my limited life I spent on a project.\
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+***
